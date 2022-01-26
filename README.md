@@ -1,1 +1,1 @@
-# Arduino-based-project
+# Arduino-based pick and place project
